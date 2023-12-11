@@ -468,7 +468,7 @@ dailogs = [
 `#terminalLastCommand`|最后一次执行的终端命令
 `#terminalSelection`|选中的终端命令
 
-### 的 Slash Commands
+### Quick Chat Editor Chat 的 Slash Commands
 <!--rehype:wrap-class=col-span-1 row-span-1-->
 
 - Quick Chat 与 Chat 的 Slash Commands相同
